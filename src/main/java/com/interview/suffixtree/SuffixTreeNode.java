@@ -1,4 +1,4 @@
-package interview.suffixtree;
+package com.interview.suffixtree;
 
 import java.util.ArrayList;
 import java.util.HashMap;

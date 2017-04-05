@@ -1,4 +1,4 @@
-package interview.graphs;
+package com.interview.graphs;
 
 import java.util.ArrayList;
 

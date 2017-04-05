@@ -1,8 +1,8 @@
-package interview.main;
+package com.interview.main;
 
 import java.util.Scanner;
 
-import com.datastructure.suffixtree.SuffixTree;
+import com.interview.suffixtree.SuffixTree;
 
 public class Main {
 	public static void main(String[] args) {
