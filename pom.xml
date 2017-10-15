@@ -7,7 +7,7 @@
   <version>1.0</version>
   <packaging>jar</packaging>
 
-  <name>interview</name>
+  <name>experiment</name>
   <url>http://maven.apache.org</url>
 
   <properties>
